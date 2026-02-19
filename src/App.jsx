@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
@@ -8,8 +8,15 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsAndConditions from "./pages/TermsAndConditions";
+import data from "./data/data.json";
+
 
 const App = () => {
+
+    useEffect(() => {
+    document.title = data.index.title;
+  }, []);
+
   return (
     <div className="min-h-screen flex flex-col">
       {/* SCROLL RESET ON ROUTE CHANGE */}
