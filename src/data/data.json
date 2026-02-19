@@ -1,0 +1,367 @@
+{
+  "navBar": {
+    "topBar": {
+      "phone": "+91 9568397629",
+      "email": "info@deltaa.org",
+      "socials": [
+        { "name": "facebook", "url": "https://facebook.com" },
+        { "name": "twitter", "url": "https://twitter.com" },
+        { "name": "instagram", "url": "https://instagram.com" },
+        { "name": "youtube", "url": "https://youtube.com" }
+      ]
+    },
+    "logo": {
+      "src": "/images/navbar/logo.png",
+      "alt": "Deltaa Logo"
+    },
+    "navLinks": [
+      { "label": "Home", "path": "/" },
+      { "label": "About ", "path": "/about" },
+      { "label": "Contact Us", "path": "/contact" }
+    ],
+    "cta": {
+      "label": "Get a Quote",
+      "path": "/contact"
+    }
+  },
+
+  "home": {
+    "hero": {
+      "bg-img": "/images/home/home-hero-bg.jpg",
+      "title": "Driving Change.\nEmpowering Communities.\nBuilding a Better Tomorrow.",
+      "subtitle": "Delta Foundation is committed to creating sustainable social impact through education, healthcare, and community-driven initiatives. Together, we transform lives and build resilient futures.",
+      "primaryButton": "CONTACT US",
+      "image": "/images/home/home-hero.jpg"
+    },
+
+    "impactProcess": {
+      "bg-img": "/images/home/impact-bg.png",
+      "title": "How We Create Sustainable Impact",
+      "subtitle": "True social change requires planning, execution, and accountability. At Delta Foundation, we follow a structured 3-step approach to maximize community impact and long-term sustainability.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Needs Assessment & Planning",
+          "description": "We begin by identifying real community needs, evaluating existing challenges, and defining clear objectives. This helps us design focused programs that deliver measurable social outcomes."
+        },
+        {
+          "step": "02",
+          "title": "Program Implementation",
+          "description": "Our team executes initiatives through on-ground partnerships, efficient resource allocation, and continuous monitoring to ensure effectiveness and transparency."
+        },
+        {
+          "step": "03",
+          "title": "Impact Review & Expansion",
+          "description": "We measure results, document outcomes, and refine our approach. Successful initiatives are scaled to reach more communities and create lasting change."
+        }
+      ]
+    },
+
+    "partners": {
+      "title": "Trusted Partners",
+      "logos": [
+        { "name": "Kupa Co.", "src": "/images/home/logo-kupa.png" },
+        { "name": "TaraBara", "src": "/images/home/logo-tarabara.png" },
+        { "name": "Codex", "src": "/images/home/logo-codex.png" }
+      ]
+    },
+
+    "initiatives": {
+      "bg-img": "/images/home/initiative-bg.png",
+      "title": "Our Core Initiatives & Services",
+      "subtitle": "We focus on meaningful action, not just intent. Delta Foundation delivers community-centric programs designed to create lasting social impact.",
+      "items": [
+        {
+          "title": "Education & Skill Development",
+          "description": "Supporting learning initiatives, scholarships, and skill-building programs for underprivileged communities."
+        },
+        {
+          "title": "Healthcare & Wellness Programs",
+          "description": "Promoting access to basic healthcare, awareness drives, and preventive care initiatives."
+        },
+        {
+          "title": "Community Development",
+          "description": "Empowering local communities through infrastructure, livelihood, and sustainability projects."
+        },
+        {
+          "title": "Partnerships & Collaboration",
+          "description": "Working with institutions, volunteers, and donors to amplify impact."
+        },
+        {
+          "title": "Transparency & Impact Reporting",
+          "description": "Clear reporting of fund utilization and program outcomes to maintain trust and accountability."
+        },
+        {
+          "title": "Transparency & Impact Reporting",
+          "description": "Clear reporting of fund utilization and program outcomes to maintain trust and accountability."
+        }
+      ]
+    },
+
+    "stats": [
+      { "value": "32000+", "label": "People Supported" },
+      { "value": "5+", "label": "Years of Service" },
+      { "value": "150+", "label": "Programs Conducted" },
+      { "value": "35+", "label": "Communities Reached" }
+    ],
+
+    "whyChoose": {
+      "title": "Why Choose Delta Foundation?",
+      "subtitle": "Rooted in purpose and powered by transparency, Delta Foundation is built on a mission to create measurable social change.",
+      "points": [
+        {
+          "title": "Community-First Approach",
+          "description": "Programs are designed based on real community needs, ensuring meaningful and sustainable outcomes."
+        },
+        {
+          "title": "Transparent Operations",
+          "description": "Every project, donation, and outcome is documented and shared openly."
+        },
+        {
+          "title": "Long-Term Impact Focus",
+          "description": "Initiatives are designed for lasting change, empowering communities rather than creating dependency."
+        }
+      ],
+      "cta": "CONTACT US"
+    },
+
+    "testimonials": {
+      "title": "Trusted by Communities,\nPowered by Change",
+      "subtitle": "At Delta Organization, we don’t just run initiatives — we transform lives. Here’s what beneficiaries, volunteers, and community leaders have to say about their journey with us.",
+      "impactRating": "4.9 / 5",
+      "items": [
+        {
+          "name": "Ramesh Kumar",
+          "rating": "5 / 5",
+          "text": "Before Delta Organization stepped in, our village struggled with access to clean drinking water. Their team worked closely with us and delivered sustainable solutions."
+        },
+        {
+          "name": "Anita Sharma",
+          "rating": "4.8 / 5",
+          "text": "As a volunteer, I’ve worked with many organizations, but Delta’s transparency and grassroots approach truly stand out."
+        },
+        {
+          "name": "Pooja Verma",
+          "rating": "5 / 5",
+          "text": "Delta Organization’s education drive changed my life. With their support, I completed my schooling and now dream bigger than ever."
+        }
+      ]
+    }
+  },
+
+  "about": {
+    "pageHeader": {
+      "title": "About",
+      "breadcrumb": ["Home", "About"]
+    },
+    "about": {
+      "image": "/images/about/about.jpg",
+      "title": "More Than Just an NGO",
+      "description": "Delta Organization stands for action, compassion, and impact...",
+      "points": [
+        {
+          "title": "Community-Centered Impact",
+          "text": "Our initiatives are designed around real community needs..."
+        },
+        {
+          "title": "Transparency & Integrity",
+          "text": "We ensure complete transparency in operations..."
+        },
+        {
+          "title": "Driven by Volunteers & Technology",
+          "text": "We combine passion with modern tools..."
+        }
+      ]
+    },
+    "stats": [
+      { "key": "people", "value": 32000, "label": "People Supported" },
+      { "key": "years", "value": 12, "label": "Years of Service" },
+      { "key": "programs", "value": 1200, "label": "Programs Conducted" },
+      { "key": "communities", "value": 1200, "label": "Communities Reached" }
+    ],
+    "testimonials": {
+      "title": "Trusted by Communities,\nPowered by Change",
+      "subtitle": "At Delta Organization, we don’t just run initiatives — we transform lives. Here’s what beneficiaries, volunteers, and community leaders have to say about their journey with us.",
+      "impactRating": "4.9 / 5",
+      "items": [
+        {
+          "name": "Ramesh Kumar",
+          "rating": "5 / 5",
+          "text": "Before Delta Organization stepped in, our village struggled with access to clean drinking water. Their team worked closely with us and delivered sustainable solutions."
+        },
+        {
+          "name": "Anita Sharma",
+          "rating": "4.8 / 5",
+          "text": "As a volunteer, I’ve worked with many organizations, but Delta’s transparency and grassroots approach truly stand out."
+        },
+        {
+          "name": "Pooja Verma",
+          "rating": "5 / 5",
+          "text": "Delta Organization’s education drive changed my life. With their support, I completed my schooling and now dream bigger than ever."
+        }
+      ]
+    }
+  },
+
+  "contact": {
+    "pageHeader": {
+      "title": "Contact Us",
+      "breadcrumb": ["Home", "Contact Us"]
+    },
+    "intro": {
+      "title": "Get in Touch",
+      "subtitle": "Reach out to us for inquiries, collaborations, or official communication."
+    },
+    "contactCards": [
+      {
+        "title": "Office Address",
+        "value": "9th Floor, Flat No. 903, Saffron Tower, Opp Ahmedabad Central Mall, Panchwati, Ahmedabad – 380006"
+      },
+      {
+        "title": "Phone",
+        "value": "+91 9568397629"
+      },
+      {
+        "title": "Email",
+        "value": "info@deltaa.org"
+      }
+    ],
+    "cta": {
+      "title": "Collaborate with Delta Organization",
+      "description": "We welcome partnerships, initiatives, and ideas that align with our mission and values.",
+      "button": "Get a Quote"
+    }
+  },
+
+  "footer": {
+    "contact": {
+      "phone": "+91 9568397629",
+      "email": "info@deltaa.org",
+      "address": {
+        "line1": "Floor No.: 9th, Building No./Flat No.: 903",
+        "line2": "Name Of Premises/Building: SAFFRON TOWER",
+        "line3": "Road/Street: OPP AHMEDABAD CENTRAL MALL",
+        "line4": "City/Town/Village: PANCHWATI, District: Ahmedabad",
+        "line5": "State: Gujarat",
+        "line6": "PIN Code: 380006"
+      }
+    },
+    "importantLinks": [
+      { "label": "Home", "path": "/" },
+      { "label": "About ", "path": "/about" },
+      { "label": "Contact Us", "path": "/contact" },
+      { "label": "Privacy Policy", "path": "/privacy-policy" },
+      { "label": "Terms and Conditions", "path": "/terms-conditions" }
+    ],
+    "newsletter": {
+      "title": "Our Newsletter",
+      "description": "Subscribe to our mailing list to get the up dates to your email inbox"
+    },
+    "socials": [
+      { "name": "facebook", "url": "https://www.facebook.com/" },
+      { "name": "twitter", "url": "https://twitter.com/" },
+      { "name": "instagram", "url": "https://www.instagram.com/" },
+      { "name": "youtube", "url": "https://www.youtube.com/" }
+    ],
+    "copyright": "© 2026 Delta Organization All Rights Reserved"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "January 2026",
+    "intro": "Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our website.",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": [
+          "Personal information such as name, email address, and contact details when you fill out forms.",
+          "Usage data including pages visited, browser type, and device information."
+        ]
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": [
+          "To provide and maintain our services.",
+          "To communicate with you, including responding to inquiries.",
+          "To improve our website and user experience."
+        ]
+      },
+      {
+        "heading": "Cookies",
+        "content": [
+          "We use cookies to enhance your browsing experience.",
+          "You can choose to disable cookies through your browser settings."
+        ]
+      },
+      {
+        "heading": "Data Security",
+        "content": [
+          "We implement reasonable security measures to protect your data.",
+          "However, no method of transmission over the internet is 100% secure."
+        ]
+      },
+      {
+        "heading": "Third-Party Services",
+        "content": [
+          "We may use third-party services that collect information to help us operate our website.",
+          "These services have their own privacy policies."
+        ]
+      },
+      {
+        "heading": "Your Rights",
+        "content": [
+          "You have the right to access, update, or delete your personal information.",
+          "You may contact us for any privacy-related concerns."
+        ]
+      }
+    ]
+  },
+    "termsAndConditions": {
+      "title": "Terms & Conditions",
+      "lastUpdated": "January 2026",
+      "intro": "These Terms & Conditions govern your use of our website. By accessing or using our services, you agree to be bound by these terms.",
+      "sections": [
+        {
+          "heading": "Acceptance of Terms",
+          "content": [
+            "By accessing this website, you agree to comply with these Terms & Conditions.",
+            "If you do not agree with any part of the terms, you must not use the website."
+          ]
+        },
+        {
+          "heading": "Use of the Website",
+          "content": [
+            "You agree to use the website only for lawful purposes.",
+            "You must not misuse or attempt to disrupt the website’s functionality."
+          ]
+        },
+        {
+          "heading": "Intellectual Property",
+          "content": [
+            "All content, branding, and materials on this website are our intellectual property.",
+            "You may not reproduce, distribute, or modify any content without permission."
+          ]
+        },
+        {
+          "heading": "User Responsibilities",
+          "content": [
+            "You are responsible for maintaining the confidentiality of your account information.",
+            "Any activity under your account is your responsibility."
+          ]
+        },
+        {
+          "heading": "Limitation of Liability",
+          "content": [
+            "We are not liable for any indirect or consequential damages.",
+            "Use of the website is at your own risk."
+          ]
+        },
+        {
+          "heading": "Changes to Terms",
+          "content": [
+            "We reserve the right to update these Terms & Conditions at any time.",
+            "Continued use of the website means acceptance of the updated terms."
+          ]
+        }
+      ]
+    }
+}
